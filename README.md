@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-
+<img align = "right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👨‍💻 All of my projects are available at
 [https://abhishekpatel05.github.io/Portfolio/](https://abhishekpatel05.github.io/Portfolio/)
@@ -66,7 +66,7 @@
 </p>
 
 <p>
-  <img
+  <img  width="300"
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpatel05&show_icons=true&locale=en&layout=compact"
     alt="abhishekpatel05" />
@@ -75,7 +75,7 @@
 
 
 <p>
-  <img
+  <img  width="300" height="auto"
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpatel05&"
     alt="abhishekpatel05" />
